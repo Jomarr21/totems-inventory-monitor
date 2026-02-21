@@ -1,0 +1,8 @@
+{
+  "delivery-modal-opener": {
+    "component": "DeliveryModalOpener"
+  },
+  "delivery-modal-trigger": {
+    "component": "DeliveryMethodTrigger"
+  }
+}
