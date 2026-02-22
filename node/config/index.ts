@@ -8,5 +8,3 @@ export function getEnvironmentConfig(isProd?: boolean): EnvironmentSettings {
 
   return config[envName]
 }
-
-export const APP_ID = config.appId

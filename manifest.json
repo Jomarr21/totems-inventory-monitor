@@ -21,6 +21,13 @@
     {
       "name": "outbound-access",
       "attrs": {
+        "host": "jumbocolombiaretiroentiendahayuelos.vtexcommercestable.com.br",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
         "host": "jumbocolombiaioswl108.vtexcommercestable.com.br",
         "path": "*"
       }
